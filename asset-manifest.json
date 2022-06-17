@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/expense-tracer-app/static/css/main.2d98e96c.chunk.css",
+    "main.js": "/expense-tracer-app/static/js/main.d9a80e3f.chunk.js",
+    "main.js.map": "/expense-tracer-app/static/js/main.d9a80e3f.chunk.js.map",
+    "runtime-main.js": "/expense-tracer-app/static/js/runtime-main.db31d2d9.js",
+    "runtime-main.js.map": "/expense-tracer-app/static/js/runtime-main.db31d2d9.js.map",
+    "static/css/2.596a165b.chunk.css": "/expense-tracer-app/static/css/2.596a165b.chunk.css",
+    "static/js/2.281f2589.chunk.js": "/expense-tracer-app/static/js/2.281f2589.chunk.js",
+    "static/js/2.281f2589.chunk.js.map": "/expense-tracer-app/static/js/2.281f2589.chunk.js.map",
+    "index.html": "/expense-tracer-app/index.html",
+    "static/css/2.596a165b.chunk.css.map": "/expense-tracer-app/static/css/2.596a165b.chunk.css.map",
+    "static/css/main.2d98e96c.chunk.css.map": "/expense-tracer-app/static/css/main.2d98e96c.chunk.css.map",
+    "static/js/2.281f2589.chunk.js.LICENSE.txt": "/expense-tracer-app/static/js/2.281f2589.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/expense-tracer-app/static/media/bootstrap-icons.7165e5d7.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db31d2d9.js",
+    "static/css/2.596a165b.chunk.css",
+    "static/js/2.281f2589.chunk.js",
+    "static/css/main.2d98e96c.chunk.css",
+    "static/js/main.d9a80e3f.chunk.js"
+  ]
+}
